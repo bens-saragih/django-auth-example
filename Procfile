@@ -1,0 +1,1 @@
+web: gunicorn django-auth-example.wsgi --log-file -
